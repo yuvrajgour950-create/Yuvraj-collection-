@@ -1,0 +1,34 @@
+[
+  {
+    "id": "golden-kurti-001",
+    "title": "Golden Kurti",
+    "price": 1299,
+    "currency": "INR",
+    "category": "Women",
+    "in_stock": true,
+    "images": [
+      "/uploads/golden-kurti.jpg"
+    ],
+    "tags": [
+      "gold",
+      "ethnic"
+    ],
+    "description": "Rich golden kurti with subtle black accents."
+  },
+  {
+    "id": "black-tee-002",
+    "title": "Premium Black Tee",
+    "price": 599,
+    "currency": "INR",
+    "category": "Men",
+    "in_stock": true,
+    "images": [
+      "/uploads/black-tee.jpg"
+    ],
+    "tags": [
+      "black",
+      "casual"
+    ],
+    "description": "Soft cotton tee with a clean fit."
+  }
+]
